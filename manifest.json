@@ -1,7 +1,7 @@
 {
-  "name": "Tạo đánh giá theo khung năng lực, phẩm chất",
-  "short_name": "Đánh giá NL, PC",
-  "description": "Hệ thống Tạo đánh giá theo khung năng lực, phẩm chất",
+  "name": "Hệ thống tra cứu dữ liệu Excel",
+  "short_name": "Tra cứu excel",
+  "description": "Hệ thống tra cứu dữ liệu Excel từ 2 File",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
